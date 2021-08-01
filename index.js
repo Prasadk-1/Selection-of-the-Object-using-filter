@@ -1,5 +1,3 @@
-console.log("Hello PK");
-
 const students = [
     {name: "Adhi", gender:"male"},
     {name: "Ahmed", gender:"male"},
